@@ -1,0 +1,10 @@
+.techniques {
+border: 1px red solid;
+padding: 100px 0 0 0;
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: #fff;
+min-width: 80%;
+}
+

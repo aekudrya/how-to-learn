@@ -1,0 +1,7 @@
+.description {
+  display: flex;
+  background-color: white;
+  padding-top: 100px;
+  justify-content: center;
+  border: 1px red solid;
+}
