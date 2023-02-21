@@ -1,9 +1,7 @@
 .cards__item {
-  border: 1px red solid;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
   max-width: 240px;
-  box-sizing: border-box;
 }
